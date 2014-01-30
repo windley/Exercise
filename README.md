@@ -1,3 +1,5 @@
+Forked example. 
+
 This is an example project to support the following blog posts:
 
 * http://blog.chariotsolutions.com/2011/12/introduction-to-backbonejs-with-jquery.html
